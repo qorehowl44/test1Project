@@ -149,6 +149,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ExArray.h" />
     <ClInclude Include="Frame.h" />
     <ClInclude Include="KeyEvent.h" />
   </ItemGroup>
